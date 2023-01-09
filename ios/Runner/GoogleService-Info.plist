@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>667229056669-kcpm3g14bga4rkvqdh641g2q208712kd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.667229056669-kcpm3g14bga4rkvqdh641g2q208712kd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>667229056669-2gvi6e4f8a1g39f9lhh6k7a1rfc0i6sj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwME-aeD2IYPYxOOHCbcjSMOpTPNva2RE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667229056669</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.coffeemondo</string>
+	<key>PROJECT_ID</key>
+	<string>loginregister-coffeemondo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginregister-coffeemondo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667229056669:ios:82c12d84c8123051646e74</string>
+</dict>
+</plist>

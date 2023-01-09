@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "667229056669",
+    "project_id": "loginregister-coffeemondo",
+    "storage_bucket": "loginregister-coffeemondo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667229056669:android:44d1e937c8298af7646e74",
+        "android_client_info": {
+          "package_name": "com.example.coffeemondo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667229056669-aln94gi7tom11mlumhfv810kou26ffqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FD8IJMkYk0DJ-ucru9CFMx6ipDri3M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667229056669-aln94gi7tom11mlumhfv810kou26ffqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667229056669-21a8a5nm5l1njcu9pkre6jg2ks047fl5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginregister"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
